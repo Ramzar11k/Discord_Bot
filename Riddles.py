@@ -2,7 +2,7 @@ from Riddle import HangMan
 import random
 import discord
 
-TOKEN = "NTgyMzczNDI1ODA5NTg4MjQ1.XOtNwQ.fR60Ct8hiV7o3DFFQc1wYxSatgE"
+TOKEN = <Token Here>
 
 hangmanWords = ["immemorial", "reincarnation", "sandpaper", "incapacitated", "sleeve", "astrology", "triceratops", "smelt", "tempo", "pizza"]
 client = discord.Client()
